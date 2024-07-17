@@ -1,0 +1,36 @@
+
+p{
+    color: red;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: whitesmoke;
+    font-family: serif;
+    padding-left: 10px;
+
+}
+p{
+font-family: fraunces;
+color: yellowgreen;
+padding-left: 10px;
+
+}
+nav{
+padding: auto;
+margin: auto;
+text-align: center;
+}
+h1{
+text-align: center;
+font-size: 40px;
+font-family: serif;
+color: whitesmoke;
+border-bottom: 2px solid whitesmoke;
+padding-bottom:10px;
+}
+#id2{
+margin-left: 10px;
+margin-right: 10px;
+}
