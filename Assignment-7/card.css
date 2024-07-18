@@ -1,0 +1,33 @@
+.box{
+    box-shadow: 0 0 10px rgb(0,0,0,7);
+    width: 350px;
+    height: 550px;
+    margin: auto;
+    margin-top: 53px;
+}
+.head{
+    float: left;
+}
+figure{
+float: left;
+}
+p{
+color: gray;
+margin-left: 10px;
+margin-right:10px ;
+}
+a{
+text-decoration: none;
+margin-left:2px ;
+margin-right: 27px;
+color: blue;
+}
+.ft{
+float: right;
+}
+.footer{
+padding: 10px;
+}
+.pg{
+float: right;
+}

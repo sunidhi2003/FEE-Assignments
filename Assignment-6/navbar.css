@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(243, 199, 189);
+}
+a{
+color:white;
+text-decoration: none;
+margin-right: 10px;
+}
+
+.box {
+background-color: black;
+padding: 26px;
+font-size: 20px;
+height: 26px;
+}
+.a{
+float:left;
+}      
+.b{
+text-align: center;
+margin-left: 280px; 
+background-color: deepskyblue;
+}
+.c{
+float:right;
+}
+h3{
+text-align: center;
+}
+
+#logo{
+float: left;
+}
+.m{
+text-align: center;
+
+}
+#contact{
+float: right;
+background-color: deepskyblue;
+margin-right: 20px;
+
+}
+#contact1{
+float: left;
+background-color: deepskyblue;
+}
+#logo1{
+float:right;
+}
